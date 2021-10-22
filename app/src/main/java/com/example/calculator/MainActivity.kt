@@ -136,6 +136,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         display.text = ""
         num1 = ""
         num2 = ""
+        op = ""
     }
 
     private fun setDecimal() {
